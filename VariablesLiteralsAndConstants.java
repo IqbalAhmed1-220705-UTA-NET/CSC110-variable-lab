@@ -17,7 +17,7 @@ public class VariablesLiteralsAndConstants {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        final double EARTH_RATIO =	1;
+        final double EARTH_RATIO = 1;
         final double MOON_RATIO = 0.16;
         final double MARS_RATIO = 0.37;
         final double JUPITER_RATIO = 2.364;
